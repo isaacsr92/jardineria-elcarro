@@ -111,6 +111,10 @@ td {
     }
     section h2.section-heading {
         font-size: 36px;}
+    .fancy span:before,
+    .fancy span:after {
+      width: 20px;
+    }
 }
 
 .btn {
