@@ -115,6 +115,8 @@ td {
     .fancy span:after {
       width: 20px;
     }
+     .team-member h4 {
+    margin-top: 15px!important; }
 }
 
 .btn {
